@@ -5,3 +5,6 @@ A4サイズ程度で厚さ3 mmのアクリルでカットしてください。�
 This CAD data is unofficial parts which makes easy to attach some board and gadget to RC which sales in daiso sangyo Co, Ltd.
 This plate assume made to cut in  A4 size acrylic plates with a thickness of 3 mm.
 For mounting on a RC, using four 2 x 20 mm screws and four nuts with a hole diameter of 2 mm.
+
+## License
+Please read [LICENCE.txt](LICENSE.txt).
