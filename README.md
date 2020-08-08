@@ -7,4 +7,4 @@ This plate assume made to cut in  A4 size acrylic plates with a thickness of 3 m
 For mounting on a RC, using four 2 x 20 mm screws and four nuts with a hole diameter of 2 mm.
 
 ## License
-Please read [LICENCE.txt](LICENSE.txt).
+Please read [LICENCE](LICENSE).
